@@ -13,16 +13,16 @@ sidebar:
 
     # Sidebar links
     email: fadilamanosi@koolkatcre8.com
-    phone: 012 345 6789
+    phone: 09065239011
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:  koolkatcre8.com/about-2/ #do not add http://
+    linkedin: linkedin.com/in/fadil-amanosi-791521195
+   # xing: alandoe
+    github: fadilamanosi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Fadilamanosi'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,35 +32,31 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      #- idiom: French
+      #  level: Professional
 
-      - idiom: Spanish
-        level: Professional
+     # - idiom: Spanish
+      #  level: Professional
 
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Researching
         link:
 
-      - item: Cooking
+      - item: Soccer gaming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I’m a Web Develpoer/software engineer specializing in building (and occasionally designing)
+      exceptional web applicactions. Currently, I’m the lead programmer at KoolkatCre8, 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: HND in Computer Science
+      university: Auchi polytechnic, Auchi.
+      time: 2013 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
