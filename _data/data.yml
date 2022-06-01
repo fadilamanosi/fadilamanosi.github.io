@@ -78,105 +78,101 @@ education:
      #     - Bullet point
 experiences:
     - role: Lead Developer
-      time: 2017 - Present
+      time: 2019 - Present
       company: KoolkatCre8, Lagos Nigeria
       details: |
-        Currently working as the leed programmer. Completed four software since 
+        Currently working as the leed Developer. Completed several software since 
         taking my role as a lead programmer. Jobs can be previewed on the <a href="https://koolkatcre8.com" >official website </a>
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Team Lead
+          - Building API's
+          - Managing Servers
+    - role: Back-end Developer
+      time: 2021 - present
+      company: Playjor, Lagos Nigeria
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Currently in charge of all operations in the development of playjor startup.
+        I've succeeded in orchestrating API's and managing server resources. Playjor is 
+        planned to be released for use in 2022. 
+      #    - Bullet point
+      #    - Bullet point
+    - role: Instructor
+      time: 2018 - 2019
+      company: Oseni Elamah Institute
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked as a Javascript and PHP instructor. 
+      #    - Bullet point
+      #    - Bullet point
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Software's Developed and those in the process of completion.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MedEarn
+        link: "https://medearn.com"
+        tagline: "A software design for a medical sales company, to enable them manage and promote their product."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Oaregadgets
+        link: "https://oaregadgets.com"
+        tagline: "An E-commerce website developed to shop/buy and price digital products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: EnviMVC
+        link: "https://github.com/fadilamanosi"
+        tagline: "A Simple but extensive MVC framework for developing PHP web applications"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #  - title: Atom
+     #   link: "#"
+    #    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Envischool
+        link: "https://github.com/fadilamanosi/createcade"
+        tagline: "A software proposed to transnmute Eductional Managment system. to "
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+#    title: Publications
+ #   intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+ #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+   #   bibendum fringilla a eu lectus.
+#    papers:
+  #    - title: The Art of Computer Programming
+#        link: "#"
+ #       authors: Donald E. Knuth
+  #      conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+ #       link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+ #     - title: A syntax directed compiler for Algol 60
+ #       link: "#"
+  #      authors: Edgar T. Irons
+ #       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP
+        level: 100%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: Angular
-        level: 98%
+ #     - name: Angular
+ #       level: 98%
 
       - name: HTML5 & CSS
+        level: 100%
+
+      - name: Laravel
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Node.js
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: AWS
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
