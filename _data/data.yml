@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+ #   pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -113,11 +113,11 @@ projects:
 
       - title: Oaregadgets
         link: "https://oaregadgets.com"
-        tagline: "An E-commerce website developed to shop/buy and price digital products."
+        tagline: "An E-commerce website developed for users to shop/buy and price digital products."
 
       - title: EnviMVC
         link: "https://github.com/fadilamanosi"
-        tagline: "A Simple but extensive MVC framework for developing PHP web applications"
+        tagline: "A Simple but extensive MVC framework for developing PHP web applications."
 
     #  - title: Atom
      #   link: "#"
@@ -125,7 +125,7 @@ projects:
 
       - title: Envischool
         link: "https://github.com/fadilamanosi/createcade"
-        tagline: "A software proposed to transnmute Eductional Managment system. to "
+        tagline: "A software proposed to transnmute Eductional Managment system."
 
 #publications:
 #    title: Publications
