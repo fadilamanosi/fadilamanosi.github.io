@@ -16,7 +16,7 @@ sidebar:
     phone: 09065239011
     citizenship:
     website:  koolkatcre8.com/about-2/ #do not add http://
-    linkedin: linkedin.com/in/fadil-amanosi-791521195
+    linkedin: fadil-amanosi-791521195
    # xing: alandoe
     github: fadilamanosi
     telegram: # add your nickname without '@' sign
@@ -52,44 +52,37 @@ career-profile:
     title: Career Profile
     summary: |
       I’m a Web Develpoer/software engineer specializing in building (and occasionally designing)
-      exceptional web applicactions. Currently, I’m the lead programmer at KoolkatCre8, 
+      exceptional web applicactions. Currently, I’m the lead programmer at KoolkatCre8. 
 education:
     - degree: HND in Computer Science
       university: Auchi polytechnic, Auchi.
       time: 2013 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      #details: |
+      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+       # 3sociis natoque penatibus et magnis dis parturient montes, nascetur
+       # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #pretium quis, sem.
+         # - Bullet point
+         # - Bullet point
+    #- degree: BSc in Applied Mathematics
+     # university: Bristol University
+     # time: 2007 - 2011
+     # details: |
+     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+     #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+     #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+     #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+     #   pretium quis, sem.
+     #     - Bullet point
+     #     - Bullet point
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2017 - Present
+      company: KoolkatCre8, Lagos Nigeria
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Currently working as the leed programmer. Completed four software since 
+        taking my role as a lead programmer. Jobs can be previewed on the <a href="https://koolkatcre8.com" >official website </a>
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
