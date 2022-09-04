@@ -95,6 +95,13 @@ experiences:
         planned to be released for use in 2022. 
       #    - Bullet point
       #    - Bullet point
+    - role: Vue-js Developer
+      time: 2022
+      company: Bole festival, Port Harcourt Nigeria
+      details: |
+        Collaborated to build the official web application for ticketing and other services. 
+      #    - Bullet point
+      #    - Bullet point
     - role: Instructor
       time: 2018 - 2019
       company: Oseni Elamah Institute
@@ -107,9 +114,13 @@ projects:
     intro: >
       Software's Developed and those in the process of completion.
     assignments:
+      - title: Bole Festival
+        link: "https://bolefestival.com"
+        tagline: "Bole Festival, is an event held annually in Port-Harcourt, Nigeria."
+
       - title: MedEarn
         link: "https://medearn.com"
-        tagline: "A software design for a medical sales company, to enable them manage and promote their product."
+        tagline: "A mobile software developed for a medical sales company, to enable them manage and promote their product."
 
       - title: Oaregadgets
         link: "https://oaregadgets.com"
@@ -118,11 +129,7 @@ projects:
       - title: EnviMVC
         link: "https://github.com/fadilamanosi"
         tagline: "A Simple but extensive MVC framework for developing PHP web applications."
-
-    #  - title: Atom
-     #   link: "#"
-    #    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
+        
       - title: Envischool
         link: "https://github.com/fadilamanosi/createcade"
         tagline: "A software proposed to transnmute Eductional Managment system."
