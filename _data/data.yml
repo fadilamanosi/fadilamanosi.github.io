@@ -78,6 +78,18 @@ education:
      #     - Bullet point
      #     - Bullet point
 experiences:
+    - role: API/Software Developer
+      time: 2020
+      company: MEDEARN, Lagos Nigeria
+      details: |
+        A mobile software developed for a medical sales company, to enable them manage and promote their product. 
+      #    - Bullet point
+      #    - Bullet point
+    - role: API Developer
+      time: Freelancer
+      company: Koolkatcre8, Lagos Nigeria
+      details: |
+        Manage and orchestrate servers, web and mobile software product.
     - role: Back-end Developer
       time: 2021 - present
       company: Playjor, Lagos Nigeria
