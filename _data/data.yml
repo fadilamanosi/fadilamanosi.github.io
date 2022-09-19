@@ -78,15 +78,15 @@ education:
      #     - Bullet point
      #     - Bullet point
 #experiences:
-    #- role: Lead Developer
-     # time: 2019 - Present
-     # company: KoolkatCre8, Lagos Nigeria
-      #details: |
-      #  Currently working as the leed Developer. Completed several software since 
-      #  taking my role as a lead programmer. Jobs can be previewed on the <a href="https://koolkatcre8.com" >official website </a>
-      #    - Team Lead
-        #  - Building API's
-         # - Managing Servers
+    - role: Lead Developer
+      time: 2019 - Present
+      company: KoolkatCre8, Lagos Nigeria
+      details: |
+        Currently working as the leed Developer. Completed several software since 
+        taking my role as a lead programmer. Jobs can be previewed on the <a href="https://koolkatcre8.com" >official website </a>
+          - Team Lead
+          - Building API's
+          - Managing Servers
     - role: Back-end Developer
       time: 2021 - present
       company: Playjor, Lagos Nigeria
