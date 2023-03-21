@@ -52,8 +52,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a Web Develpoer/software engineer specializing in building (and occasionally designing)
-      exceptional web applicactions. Currently, I’m the lead programmer at KoolkatCre8. 
+      Backend Engineer || Web Developer || DevOPs || PHP Developer || Laravel || Web3 Enthusiast.
+      As a highly experienced LAMP developer with over 5 years of industry exposure, I have a proven
+      track record of utilizing cutting-edge technologies and programming languages to deliver successful projects.. 
 education:
     - degree: HND in Computer Science
       university: Auchi polytechnic, Auchi.
@@ -94,9 +95,7 @@ experiences:
       time: 2021 - present
       company: Playjor, Lagos Nigeria
       details: |
-        Currently in charge of all operations in the development of playjor startup.
-        I've succeeded in orchestrating API's and managing server resources. Playjor is 
-        planned to be released for use in 2022. 
+        Collaborated in the development of playjor platform.
       #    - Bullet point
       #    - Bullet point
     - role: Vue-js Developer
@@ -104,6 +103,13 @@ experiences:
       company: Bole festival, Port Harcourt Nigeria
       details: |
         Collaborated to build the official web application for ticketing and other services. 
+      #    - Bullet point
+      #    - Bullet point
+     - role: Lead Developer
+      time: 2022
+      company: Research assistant, UK
+      details: |
+        Collaborated in the API development, front-end and overseeing mobile development. 
       #    - Bullet point
       #    - Bullet point
     - role: Instructor
